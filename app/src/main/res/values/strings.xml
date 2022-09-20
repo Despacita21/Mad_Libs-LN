@@ -1,0 +1,184 @@
+<resources>
+    <string name="app_name">Mad_Libs-LN</string>
+
+    <string name="LN_Hint_1">Male Name</string>
+    <string name="LN_Hint_2">Another Male Name</string>
+    <string name="LN_Hint_3">An Activity</string>
+    <string name="LN_Hint_4">Adjective</string>
+    <string name="LN_Hint_5">Plural Noun</string>
+    <string name="LN_Hint_6">Flavor 1</string>
+    <string name="LN_Hint_7">Flavor 2</string>
+    <string name="LN_Hint_8">Flavor 3</string>
+    <string name="LN_Hint_9">Any Name</string>
+
+    <string name="Passage_1">Once there was a man named</string>
+    <!--*male name*-->
+    <string name="Passage_2">that needed to go the store.</string>
+    <string name="Passage_3">So he told his buddy</string>
+    <!--*another male name*-->
+    <string name="Passage_4">that he was gonna leave the house for a bit.</string>
+    <string name="Passage_5">Later that day,</string>
+    <!--*another male name*-->
+    <string name="Passage_6">needed</string>
+    <!--*male name*-->
+    <string name="Passage_7">to help him with</string>
+    <!--*an activity*-->
+    <string name="Passage_8">. So</string>
+    <!--*another male name*-->
+    <string name="Passage_9">called</string>
+    <!--*male name*-->
+    <string name="Passage_10">and asked him come over.</string>
+    <!--*male name*-->
+    <string name="Passage_11">said he was in the process of buying</string>
+    <!--*adj1.*
+    *pl.noun1*-->
+    <string name="Passage_12">.</string>
+    <!--*another male name*-->
+    <string name="Passage_13">asked</string>
+    <!--*male name*-->
+    <string name="Passage_14">to hurry up and get over here, but</string>
+    <!--*male name*-->
+    <string name="Passage_15">couldn\'t find any</string>
+    <!--*adj1.*
+    *pl.noun1*-->
+    <string name="Passage_16">and there was only soup.</string>
+    <!--*another male name*-->
+    <string name="Passage_17">asked</string>
+    <!--*male name*-->
+    <string name="Passage_18">what does he mean that he can\'t find any</string>
+    <!--*adj1.*
+    *pl.noun1*-->
+    <string name="Passage_19">and that there was only soup.</string>
+    <!--*male name*-->
+    <string name="Passage_20">said he just couldn\'t and that there was only soup, so</string>
+    <!--*another male name*-->
+    <string name="Passage_21">shouted at him to move to another aisle.</string>
+    <!--*male name*-->
+    <string name="Passage_22">asked</string>
+    <!--*another male name*-->
+    <string name="Passage_23">to please not do that, but willingly followed his order.</string>
+    <!--*male name*-->
+    <string name="Passage_24">said there is still only soup, and began to name some of the flavors:</string>
+    <!--*flavor1*-->
+    <string name="Passage_25">soup</string>
+    <!--*flavor2*-->
+    <string name="Passage_26">soup</string>
+    <!--*flavor3*-->
+    <string name="Passage_27">soup</string>
+    <!--*another male name*-->
+    <string name="Passage_28">began to shout even louder and question</string>
+    <!--*male name*-->
+    <string name="Passage_29">what store he was in.</string>
+    <!--*male name*-->
+    <string name="Passage_30">said he was at soup, and</string>
+    <!--*another male name*-->
+    <string name="Passage_31">asked what does he mean that he\'s at soup.</string>
+    <!--*male name*-->
+    <string name="Passage_32">said</string>
+    <!--*any name*-->
+    <string name="Passage_33">\'s Soup Store.</string>
+    <!--*another male name*-->
+    <string name="Passage_34">shouted at the top of his lungs at</string>
+    <!--*male name*-->
+    <string name="Passage_35">and questioned why he was buying</string>
+   <!-- *adj1.*
+    *pl.noun1*-->
+    <string name="Passage_36">at</string>
+    <!--*any name*-->
+    <string name="Passage_37">\'s Soup Store!</string>
+    <!--*male name*-->
+    <string name="Passage_38">and</string>
+    <!--*another male name*-->
+    <string name="Passage_39">began to both scream and shout at each other,</string>
+    <string name="Passage_40">and people began to stare.</string>
+
+
+
+
+
+    <!--
+     Once there was a man named
+     *male name*
+     that needed to go the store.
+     So he told his buddy
+     *another male name*
+     ,that he was gonna leave the house for a bit.
+     Later that day,
+     *another male name*
+     needed
+     *male name*
+     to help him with
+     *an activity*.
+     So
+     *another male name*
+     called
+     *male name*
+     and asked him come over.
+     *male name*
+     said he was in the process of buying
+     *adj1.*
+     *pl.noun1*.
+     *another male name*
+     asked
+     *male name*
+     to hurry up and get over here, but
+     *male name*
+     couldn't find any
+     *adj1.*
+     *pl.noun1*
+     and there was only soup.
+     *another male name*
+     asked
+     *male name*
+     what does he mean that he can't find any
+     *adj1.*
+     *pl.noun1*
+     and that there was only soup.
+     *male name*
+     said he just couldn't and that there was only soup, so
+     *another male name*
+     shouted at him to move to another aisle.
+     *male name*
+     asked
+     *another male name*
+     to please not do that, but willingly followed his order.
+     *male name*
+     said there is still only soup, and began to name some of the flavors:
+     *flavor1*
+     soup
+     *flavor2*
+     soup
+     *flavor3*
+     soup
+     *another male name*
+     began to shout even louder and question
+     *male name*
+     what store he was in.
+     *male name*
+     said he was at soup, and
+     *another male name*
+     asked what does he mean that he's at soup.
+     *male name*
+     said
+     *any name*
+     's Soup Store.
+     *another male name*
+     shouted at the top of his lungs at
+     *male name*
+     and questioned why he was buying
+     *adj1.*
+     *pl.noun1*
+     at
+     *any name*
+     's Soup Store.
+     *male name*
+     and
+     *another male name*
+     began to both scream and shout at each other, and people began to stare.
+
+
+
+
+
+     -->
+</resources>
